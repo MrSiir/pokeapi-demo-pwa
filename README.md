@@ -1,12 +1,12 @@
-# PokéAPI Demo (PWA)(Offline)
+# PokéAPI Demo (PWA)
 
 Proyecto en Vue + PWA, se puede instalar en movil y en escritorio.  
 
 ## Desktop
-<img src="/raw/Development/poke-api-demo.git/master/docs!desktop.jpg" />
+<img src="https://raw.githubusercontent.com/MrSiir/pokeapi-demo-pwa/main/docs/desktop.jpg" />
 
 ## Mobile
-<img src="/raw/Development/poke-api-demo.git/master/docs!mobile.jpg" />
+<img src="https://raw.githubusercontent.com/MrSiir/pokeapi-demo-pwa/main/docs/mobile.jpg" />
 
 ## Project setup
 ```
